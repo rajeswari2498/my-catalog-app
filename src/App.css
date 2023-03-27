@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+card-img-top {
+  width: auto;
+  height:45vh;
+  object-fit: cover;
+}
+.shopcart{
+  color:blue;
+  height:3rem;
+  width:1.5em;
+}
+.btn1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ .buttons { 
+  float: right;
+} 
+
+h4 {
+  text-align: end;
+}
+tr{
+  text-align: center;
+}
+.tabledata{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.order{
+  color: blue;
+  font-weight: 600;
+  margin-right: 15px;
+}
